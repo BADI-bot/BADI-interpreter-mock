@@ -4,7 +4,7 @@ A simple mock interpreter for use during development
 
 ## Installation
 
-`npm install BADI-bot/BADI-interpreter-mock`
+`npm install devcodeabode/BADI-interpreter-mock`
 
 ## Usage
 
