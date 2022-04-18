@@ -1,0 +1,25 @@
+{
+  "name": "badi-interpreter-mock",
+  "version": "1.0.0",
+  "description": "A mock interpreter for development",
+  "main": "main.js",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "mersenne-twister": "^1.1.0",
+    "moment": "^2.29.1"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BADI-bot/BADI-interpreter-mock.git"
+  },
+  "author": "Brandon Ingli, BADI-bot Team",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BADI-bot/BADI-interpreter-mock/issues"
+  },
+  "homepage": "https://github.com/BADI-bot/BADI-interpreter-mock#readme",
+  "prettier": {}
+}
